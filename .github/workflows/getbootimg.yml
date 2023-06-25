@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       ROM_URL:
-        description: 'OTA Url'
+        description: 'https://bigota.d.miui.com/V14.0.5.0.TMYCNXM/liuqin_images_V14.0.5.0.TMYCNXM_20230517.0000.00_13.0_cn_50b6972b0b.tgz'
         required: true
         default: ''
       tag:
